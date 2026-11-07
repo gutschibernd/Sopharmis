@@ -1,2 +1,0 @@
-# Sopharmis
-Website of Sopharmis
